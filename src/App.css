@@ -22,6 +22,10 @@
 	transition: opacity 0.2s ease-in-out;
 }
 
+.rc-slider-handle {
+	transform: translate(-50%, 0);
+}
+
 .rc-slider-handle:hover .custom-tooltipe,
 .rc-slider-handle:focus .custom-tooltipe,
 .rc-slider-handle:active .custom-tooltipe {
